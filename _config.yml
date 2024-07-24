@@ -1,0 +1,12 @@
+title: Jelech Blog
+email: jelech@hotmail.com
+description: >- 
+  This is my blog hosted on GitHub Pages.
+baseurl: "/blog"
+url: "http://jelech.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
